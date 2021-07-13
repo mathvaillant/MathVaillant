@@ -13,6 +13,7 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+     <img src="https://camo.githubusercontent.com/7564fe8b2b739c617a497366664b0577947cc4b52b86d14b4b14a7b77885b110/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6174657269616c2d75692e706e67" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
      <img src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" alt="nextJs" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
