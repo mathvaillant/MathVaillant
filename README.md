@@ -1,4 +1,4 @@
-### HI THERE / OLÁ PESSOAL / HALLO ZUSAMMEN / HOLA A TODOS, I'm Matheus Vaillant but you can call me Matt 👋�
+### HI THERE / OLÁ PESSOAL / HALLO ZUSAMMEN / HOLA A TODOS, I'm Matheus Vaillant but you can call me Matt 👋
      
 ![](https://visitor-badge.laobi.icu/badge?page_id=mathvaillant.mathvaillant)
 [![Github](https://img.shields.io/github/followers/mathvaillant?label=Follow&style=social)](https://github.com/mathvaillant) 
