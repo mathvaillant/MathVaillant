@@ -5,5 +5,3 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-vaillant-03781b11b"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>  
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathvaillant)](https://github.com/anuraghazra/github-readme-stats)
-
